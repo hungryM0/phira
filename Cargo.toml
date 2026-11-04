@@ -70,7 +70,7 @@ tracing = "0.1.44"
 uuid = "1.22.0"
 url = "2"
 walkdir = "2.5.0"
-zip = { version = "8.3.0", default-features = false }
+zip = { version = "9.0.0", default-features = false }
 
 [profile.release]
 opt-level = 2
